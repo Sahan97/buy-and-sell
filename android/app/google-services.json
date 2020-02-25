@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "215710333731",
+    "firebase_url": "https://buy-n-sell-e1a5b.firebaseio.com",
+    "project_id": "buy-n-sell-e1a5b",
+    "storage_bucket": "buy-n-sell-e1a5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215710333731:android:517f2b31d1132278aa2a96",
+        "android_client_info": {
+          "package_name": "com.example.buy_n_sell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215710333731-et7atu2tdlbch2shlttuoe5ne483n2k0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHyaWHBPKPE9jRQaXNKOdcv2G2_Vez5YM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215710333731-et7atu2tdlbch2shlttuoe5ne483n2k0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
